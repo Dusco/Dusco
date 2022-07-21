@@ -1,3 +1,3 @@
 # Dusco
 
-I'm Dusco. 
+I'm Dusco
