@@ -1,5 +1,5 @@
 # Dusco
 
-![Me](https://imgur.com/a/2JzqgEX)
+![Me](imgur.com/a/2JzqgEX)
 
 
