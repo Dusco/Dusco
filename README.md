@@ -1,5 +1,7 @@
 <h1>Dusco</h1>
 
+<img src="dusco_github.png">
+
 ![](https://komarev.com/ghpvc/?username=Dusco&color=eb3102)
 
 I'm a programmer, I mainly use:
