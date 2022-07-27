@@ -1,6 +1,6 @@
 <h1>Dusco</h1>
 
-<img src="dusco_github.png" width="256" height="256">
+<img src="dusco_github.png" width="128" height="128">
 
 ![](https://komarev.com/ghpvc/?username=Dusco&color=eb3102)
 
