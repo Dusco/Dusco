@@ -1,6 +1,6 @@
 <h1>Dusco</h1>
 
-![](https://komarev.com/ghpvc/?username=Dusco&color=red)
+![](https://komarev.com/ghpvc/?username=Dusco&color=eb3102)
 
 I'm a programmer, I mainly use:
 
