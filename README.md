@@ -2,7 +2,7 @@
 
 <img src="dusco_stackoverflow.png" width="128" height="128"><img src="dusco_youtube.png" width="128" height="128"><img src="dusco_github.png" width="128" height="128"><img src="dusco.png" width="128" height="128">
 
-![](https://komarev.com/ghpvc/?username=Dusco&color=eb3102) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Dusco}">
+![](https://komarev.com/ghpvc/?username=Dusco&color=eb3102) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusco">
 
 
 I'm a programmer, I mainly use:
