@@ -1,5 +1,7 @@
 <h1>Dusco</h1>
 
+![](https://komarev.com/ghpvc/?username=Dusco)
+
 I'm a programmer, I mainly use:
 
  - C#
