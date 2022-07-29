@@ -15,5 +15,8 @@ You can contact me these ways:
 
 **Discord:** Dusco#5454
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dusco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
